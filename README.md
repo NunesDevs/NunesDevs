@@ -1,17 +1,24 @@
 
 <h1 align="center">NunesDevs</h1>
 
-<p>
-<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
-</p>
+## Prazer, meu nome é Matheus. Seja bem-vindo!!
 
-- 👋 Olá!! eu sou @NunesDevs
-- 👀 Eu tenho varios interesses, um deles é o conhecimento!
+<div>
+  <a href="https://github.com/NunesDevs/">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=NunesDevs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/NunesDevs/">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunesDevs&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
 
-<p>
-<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
-</p>
+### Redes
 
+<div>
+  <a href="https://instagram.com/_.nuunex/" target="_blank"><img width="33px" align="center" src="https://user-images.githubusercontent.com/79010085/144776540-09fc2394-6cc6-48c5-888a-8149e1584ef1.png" target="_blank"></a>
+  <a href = "mailto:matheusnunes370@gmail.com"><img width="40px" align="center" src="https://user-images.githubusercontent.com/79010085/144776874-239b5c89-9d51-4a46-8b98-b37cd3418f54.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nunesdevs/" target="_blank"><img width="33px" align="center" src="https://user-images.githubusercontent.com/79010085/144777204-3cf29911-0e4c-4136-806a-e97fe8803a2e.png" target="_blank"></a> 
+</div>
 
 <!---
 NunesDevs/NunesDevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
