@@ -1,7 +1,18 @@
 
-<h1 align="center">NunesDevs</h1>
+<h1 align="center">Olá, sou o Matheus!</h1>
 
-## Prazer, meu nome é Matheus. Seja bem-vindo ao meu portifólio!! Aqui serão postados meus projetos e anotações sobre o que estou aprendendo e desenvolvendo.
+Estudante de ciências da computação 👨🏻‍💻 </br>
+Apaixonado por tecnologia ❤️ </br>
+Estudando e aprendendo sempre ✨ </br>
+
+
+
+## Linguagens que estou aprendendo:
+
+<li>JavaScript</li>
+<li>Java</li>
+<li>C#</li>
+<li>Python</li>
 
 <div>
   <a href="https://github.com/NunesDevs/">
