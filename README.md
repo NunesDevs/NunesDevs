@@ -1,7 +1,7 @@
 
 <h1 align="center">NunesDevs</h1>
 
-## Prazer, meu nome é Matheus. Seja bem-vindo!!
+## Prazer, meu nome é Matheus. Seja bem-vindo ao meu portifólio!! Aqui serão postados meus projetos e anotações sobre o que estou aprendendo e desenvolvendo.
 
 <div>
   <a href="https://github.com/NunesDevs/">
