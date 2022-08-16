@@ -7,7 +7,7 @@ Estudando e aprendendo sempre ✨ </br>
 
 
 
-## Linguagens que estou aprendendo:
+<h2>Linguagens que estou aprendendo:</h2>
 
 <li>JavaScript</li>
 <li>Java</li>
@@ -23,7 +23,9 @@ Estudando e aprendendo sempre ✨ </br>
   </a>
 </div>
 
-### Redes
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=NunesDevs/&repo=NunesDevs/&countColorcountColor)
+
+<h3>Redes e contato</h3>
 
 <div>
   <a href="https://instagram.com/_.nuunex/" target="_blank"><img width="33px" align="center" src="https://user-images.githubusercontent.com/79010085/144776540-09fc2394-6cc6-48c5-888a-8149e1584ef1.png" target="_blank"></a>
