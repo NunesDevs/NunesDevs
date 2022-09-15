@@ -20,9 +20,11 @@ Estudando e aprendendo sempre ✨ </br>
 <div>
     <img width="440em" src="https://github-readme-stats.vercel.app/api?username=NunesDevs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="NunesDevs"/>
     <img width="440em" src="https://github-readme-streak-stats.herokuapp.com?user=NunesDevs&theme=dark&date_format=j%20M%5B%20Y%5D" alt="NunesDevs"/>
-    <img align="center" width="440em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunesDevs&layout=compact&langs_count=7&theme=dark" alt="NunesDevs"/>
+    <img width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunesDevs&layout=compact&langs_count=7&theme=dark" alt="NunesDevs"/>
 </div>
+
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=NunesDevs/&repo=NunesDevs/&countColorcountColor)
+
 
 <h3>Redes e contato</h3>
 
