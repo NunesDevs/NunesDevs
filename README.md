@@ -8,11 +8,14 @@ Estudando e aprendendo sempre ✨ </br>
 
 
 <h2>Linguagens que estou aprendendo:</h2>
-
-<li>JavaScript</li>
-<li>Java</li>
-<li>C#</li>
-<li>Python</li>
+<div>
+  <img src="https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=javascript" alt="NunesDevs"/>
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5" alt="NunesDevs"/>
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6" alt="NunesDevs"/>
+  <img src="https://img.shields.io/badge/-C%20Sharp-05122A?style=flat-square&logo=CSharp&logoColor=1572B6" alt="NunesDevs"/>
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&logoColor=1572B6" alt="NunesDevs"/>
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6" alt="NunesDevs"/>
+</div>
 
 <div>
   <a href="https://github.com/NunesDevs/">
