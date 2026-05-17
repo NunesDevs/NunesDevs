@@ -1,42 +1,108 @@
+<div align="center">
+  <h1>Olá, eu sou o Matheus Nunes</h1>
+  <p>
+    Estudante de Ciência da Computação, desenvolvedor em evolução constante e criador da Nunexx Climatização.
+  </p>
 
-<h1 align="center">Olá, sou o Matheus!</h1>
-
-Estudante de ciências da computação 👨🏻‍💻 </br>
-Apaixonado por tecnologia ❤️ </br>
-Estudando e aprendendo sempre ✨ </br>
-
-
-
-<h2>Linguagens que estou aprendendo:</h2>
-<div>
-  <img src="https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=javascript" alt="NunesDevs"/>
-  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5" alt="NunesDevs"/>
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6" alt="NunesDevs"/>
-  <img src="https://img.shields.io/badge/-C%20Sharp-05122A?style=flat-square&logo=CSharp&logoColor=1572B6" alt="NunesDevs"/>
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&logoColor=1572B6" alt="NunesDevs"/>
-  <img src="https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABPlBMVEUAAADbOA5E0P9zoft1n/aRgrbFT0F3nfLbOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA7bOA3bOA7bOA7bOA1zoftzoftyov2TgLHXPBfPRClhs/9zoftzoftzoftzoftzoftzoftzofxyov58mOZ2nvVzofxzoftzoftzoftzoftzoftzoftyov1zofxzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzoftzofv////wexQqAAAAaXRSTlMAAAAAAAAAAApdBiuXCDe2bhBHzpl1MA+8hatJE75n0zVpcKeDBkJPIFlWEFRwDBSrwZGIlHo7I700ppCHh4EnW4sQA3KahoBmISwHNzFjrKquiBILFbmjb3Z1d4pqAiBVpcPMyqeSUQQUPNlqAAAAAWJLR0RpvGvEtAAAAAlwSFlzAAAN1wAADdcBQiibeAAAAAd0SU1FB+YJDwEIJzWrdUwAAACkSURBVAjXY2AAAUZGDk4uRgYoYGRk5ObhZWSE8/j4BQQRXCFhEVExOFdcQlJKmhHOlZGVk1dgZGJmZmZgYGZmYVVUUlZhY4dwVdXUNRQ0tbR1dPVAXH0DQyNjE1MzcwtLsGJzK2sbWzt7B0cnZiCP2dnF1c3dw9PLG6iX2dvH188/IDAoOCQUxPUMC9eNiIzSjY6JDQFy4+ITEpOSUyxS09IzmAEMdxeKqwmFlgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMi0wOS0xNVQwMTowODozNSswMDowMBOGlc8AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjItMDktMTVUMDE6MDg6MzUrMDA6MDBi2y1zAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAABJRU5ErkJggg==&logoColor=1572B6" alt="NunesDevs"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=007BFF&center=true&vCenter=true&width=720&lines=Desenvolvimento+Web+%7C+Python+%7C+Automa%C3%A7%C3%A3o;Projetos+com+GitHub%2C+IA+e+sistemas+locais;Aprendendo%2C+construindo+e+evoluindo+sempre"
+    alt="Typing SVG"
+  />
 </div>
 
-<div>
-    <img width="440em" src="https://github-readme-stats.vercel.app/api?username=NunesDevs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="NunesDevs"/>
-    <img width="440em" src="https://github-readme-streak-stats.herokuapp.com?user=NunesDevs&theme=dark&date_format=j%20M%5B%20Y%5D" alt="NunesDevs"/>
-    <img width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunesDevs&layout=compact&langs_count=7&theme=dark" alt="NunesDevs"/>
+---
+
+## Sobre mim
+
+- Estudante de Ciência da Computação.
+- Apaixonado por tecnologia, automação e desenvolvimento de sistemas.
+- Construindo projetos com Python, JavaScript, HTML, CSS, C#, Java e ferramentas de IA.
+- Atualmente organizando meu ecossistema local com Obsidian, GitHub, Codex, Claude Code e Jarvis.
+
+## Tecnologias e ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,cs,java,react,nextjs,nodejs,typescript,git,github,vscode,docker,postgres,prisma&theme=dark" alt="Tecnologias" />
 </div>
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=NunesDevs/&repo=NunesDevs/&countColorcountColor)
+<br />
 
-
-<h3>Redes e contato</h3>
-
-<div>
-    <a href="https://instagram.com/_.nuunex/" target="_blank"><img width="33px" align="center" src="https://user-images.githubusercontent.com/79010085/144776540-09fc2394-6cc6-48c5-888a-8149e1584ef1.png" target="_blank"></a>
-    <a href = "mailto:matheusnunes370@gmail.com"><img width="40px" align="center" src="https://user-images.githubusercontent.com/79010085/144776874-239b5c89-9d51-4a46-8b98-b37cd3418f54.png" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/nunesdevs/" target="_blank"><img width="33px" align="center" src="https://user-images.githubusercontent.com/79010085/144777204-3cf29911-0e4c-4136-806a-e97fe8803a2e.png" target="_blank"></a> 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C%23-05122A?style=for-the-badge&logo=csharp&logoColor=9B4F96" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="Java" />
 </div>
 
+## GitHub Analytics
 
+<div align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=NunesDevs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-streak-stats.demolab.com?user=NunesDevs&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak"
+  />
+</div>
 
-<!---
-NunesDevs/NunesDevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img
+    height="190"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunesDevs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NunesDevs&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=NunesDevs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+    alt="GitHub Trophies"
+  />
+</div>
+
+## Projetos e foco atual
+
+- Desenvolvimento web e aplicações locais.
+- Automação com Python.
+- Organização de repositórios e documentação técnica.
+- Integração de ferramentas com IA.
+- Sistemas para gestão técnica, relatórios e operações da Nunexx.
+
+## Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nunesdevs/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-007BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/_.nuunex/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-1C1F24?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:matheusnunes370@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-005BC7?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NunesDevs&style=for-the-badge&color=007BFF" alt="Profile views" />
+</div>
+
+---
+
+<div align="center">
+  <strong>Construindo, aprendendo e evoluindo um commit por vez.</strong>
+</div>
