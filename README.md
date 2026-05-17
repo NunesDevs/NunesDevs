@@ -40,22 +40,35 @@
 
 <div align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=NunesDevs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-    alt="GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-streak-stats.demolab.com?user=NunesDevs&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-    alt="GitHub Streak"
+    width="98%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NunesDevs&theme=github_dark"
+    alt="Resumo do perfil GitHub"
   />
 </div>
 
 <div align="center">
   <img
-    height="190"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunesDevs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NunesDevs&theme=github_dark"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NunesDevs&theme=github_dark&utcOffset=-3"
+    alt="Horário produtivo"
+  />
+</div>
+
+<div align="center">
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NunesDevs&theme=github_dark"
+    alt="Repositórios por linguagem"
+  />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NunesDevs&theme=github_dark"
+    alt="Commits por linguagem"
   />
 </div>
 
